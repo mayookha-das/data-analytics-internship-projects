@@ -16,5 +16,12 @@ This repository contains data analytics and data science projects created as par
 4. Business Insights using SQL
 5. Sales Performance Dashboard (Power BI)
 
+## Tools & Technologies
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (SQLite)
+- Power BI Desktop
+- Jupyter Notebook
+- Git & GitHub
+
 ## About Me
 I am an MSc Mathematics graduate currently pursuing a PG Diploma in Data Science & Analytics. I am actively seeking Data Analyst / Data Science internship opportunities starting April.

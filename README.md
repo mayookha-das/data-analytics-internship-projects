@@ -1,4 +1,4 @@
-# Data Analytics Internship Projects
+# Data Analytics Portfolio
 
 This repository contains data analytics and data science projects created as part of my learning journey and internship preparation.
 
